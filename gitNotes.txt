@@ -1,4 +1,6 @@
-git
+Gitt
 config
 init
 
+Git is amazing for version control
+it saves differences. rather than whole files.
